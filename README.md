@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Egemen Ünal!  
 
 💻 Full-Stack Web Developer & Freelancer  
-📚 Studying Management Information Systems at Dokuz Eylül University (2nd Year)  
+📚 Studying Management Information Systems at Dokuz Eylül University (3nd Year)  
 🌍 Based in Izmir, Turkey  
 
 ---
