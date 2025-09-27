@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 I am a **full-stack web developer** passionate about creating dynamic and efficient web applications. Currently, I specialize in **JavaScript, React, and Node.js**, and I have experience working with **AI and Geographic Information Systems (GIS)**.  
 
-I work at **Umut Pharmacy in Izmir**, where I develop and maintain web applications. I also have experience in **WordPress, WooCommerce, and e-commerce platforms**.  
+I work at **Severekal.com in Izmir**, where I develop and maintain web applications. I also have experience in **WordPress, WooCommerce, and e-commerce platforms**.  
 
 📫 **Contact Me**  
 - **Email:** [unallegemenn@gmail.com](mailto:unallegemenn@gmail.com)  
