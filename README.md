@@ -40,11 +40,6 @@ I work at **Umut Pharmacy in Izmir**, where I develop and maintain web applicati
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-47A248?style=flat&logo=postgresql&logoColor=white)
 
-### 🔧 Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-
 ---
 
 ## 📊 GitHub Stats  
